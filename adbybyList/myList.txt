@@ -1,4 +1,4 @@
-﻿!屏蔽B站直播
+!屏蔽B站直播
 bilibili.com##div#b_live.container-row
 !解除误杀C站播放器
 @@http://clientupdate.175pt.com/Protect/175Secure/file/MukioPlayerPlus.swf
