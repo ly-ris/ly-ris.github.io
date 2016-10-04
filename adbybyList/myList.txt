@@ -1,7 +1,11 @@
-!屏蔽B站直播
+!屏蔽B站板块
 bilibili.com##div#b_live.container-row
+bilibili.com##[data-tid="129"]
+bilibili.com##div#b_dance.container-row
+bilibili.com##[data-tid="155"]
+bilibili.com##div#b_fashion.container-row
 !屏蔽B站广告
-bilibili.com##div[data-id]
+bilibili.com##div[data-name]
 !解除误杀C站播放器
 @@http://clientupdate.175pt.com/Protect/175Secure/file/MukioPlayerPlus.swf
 @@http://clientupdate.175pt.com/Protect/175Secure/file/conf.xml
